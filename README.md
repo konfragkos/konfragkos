@@ -18,16 +18,6 @@ A passionate **Research and Development Engineer** with expertise in **DevOps, C
 
 <br style="line-height: 5px;" />
 
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=konfragkos&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/stars/konfragkos?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star" alt="Total stars"/>
-  <a href="https://github.com/YourUsername?tab=followers">
-    <img src="https://img.shields.io/github/followers/konfragkos?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="Follow me on Github"/>
-  </a>
-  
-</div>
-
 <div align="left">
 
 ## About Me
@@ -38,13 +28,13 @@ A passionate **Research and Development Engineer** with expertise in **DevOps, C
 </div>
 
 <div align="left">
-  
-  * Currently Learning and Exploring 🌱  
-  * Actively Working on DevOps and Cloud Projects 💡  
-  * Keeping Myself Updated with the Latest Tech Trends 📚  
-  * Always Open to Collaborating on Exciting Projects 🤝  
-  * Feel Free to Ask Me Any Questions 💬  
+  * 🔹 Currently Learning and Exploring 🌱  
+  * 🔹 Exploring DevOps and Automation Tools 🛠️
+  * 🔹 Keeping Up with Emerging Technologies 🚀
+  * 🔹 Open to Collaborations & Knowledge Sharing 🤝
+  * 🔹 Always Learning & Improving 📚
 </div>
+
 
 <h3 align="left">Find Me On:</h3>
 <p align="left">
