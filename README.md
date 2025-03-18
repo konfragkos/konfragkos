@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey there 👋🏻, I'm [Your Name](https://github.com/YourUsername)!
+# Hey there 👋🏻, I'm [Ntinos](https://github.com/konfragkos)!
 
 A passionate **Research and Development Engineer** with expertise in **DevOps, Cloud Technologies, and Automation**. I specialize in building scalable, efficient, and reliable systems using tools like **Docker, Kubernetes, Jenkins, and more**. I thrive on solving complex problems and continuously learning new technologies to stay ahead in the ever-evolving tech landscape.
 
@@ -68,14 +68,3 @@ A passionate **Research and Development Engineer** with expertise in **DevOps, C
 
 <div align="left">
 
-## Stats & Activity
-
-</div>
-
-<p align="center">
-<img  width="450px" src="https://github-readme-stats.vercel.app/api?username=YourUsername&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&text_color=ffffff">
-</p>
-<p align="center">
-  <a href="https://github.com/YourUsername">      
-<img width="450px" src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=dark&hide_border=true" alt="Github Streak" /> </a> 
-</p>
