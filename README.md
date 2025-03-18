@@ -24,7 +24,7 @@ A passionate **Research and Development Engineer** with expertise in **DevOps, C
 </div>
 
 <div align="right">
-  <img src="https://github.com/konfragkos/konfragkos/assets/123456789/your-image-id" alt="DevOps-gif" style="width: 100%; max-width: 430px; height: 350px;" align="right">
+  <img src="https://www.docker.com/blog/build-multimodal-genai-apps-with-octoai-and-docker/" alt="DevOps-gif" style="width: 100%; max-width: 430px; height: 350px;" align="right">
 </div>
 
 <div align="left">
