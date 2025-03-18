@@ -12,10 +12,6 @@ A **Research and Development Engineer** working in **DevOps, Cloud Technologies,
 
 <div align="center">
 
-<p align="center">
-  <em>Feel free to explore my repositories and projects below!</em>
-</p>
-
 <br style="line-height: 5px;" />
 
 <div align="left">
@@ -23,12 +19,15 @@ A **Research and Development Engineer** working in **DevOps, Cloud Technologies,
 ## About Me
 ![docker-container](https://github.com/user-attachments/assets/096114b3-5b9c-4e7b-bef7-8055204468c2)
 
+🔹 Currently Learning and Exploring 🌱 
 
-   🔹 Currently Learning and Exploring 🌱  
-   🔹 Exploring DevOps and Automation Tools 🛠️
-   🔹 Keeping Up with Emerging Technologies 🚀
-   🔹 Open to Collaborations & Knowledge Sharing 🤝
-   🔹 Always Learning & Improving 📚
+🔹 Exploring DevOps and Automation Tools 🛠️
+
+🔹 Keeping Up with Emerging Technologies 🚀
+
+🔹 Open to Collaborations & Knowledge Sharing 🤝
+
+🔹 Always Learning & Improving 📚
 
 
 <h3 align="left">Find Me On:</h3>
