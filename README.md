@@ -22,7 +22,9 @@ A passionate **Research and Development Engineer** with expertise in **DevOps, C
 
 ## About Me
 https://www.docker.com/blog/build-multimodal-genai-apps-with-octoai-and-docker/
-
+<div align="right">
+  ![docker-container](https://github.com/user-attachments/assets/daf8a003-fc31-48d7-a216-313778a21b55)
+</div>
 <div align="left">
   * 🔹 Currently Learning and Exploring 🌱  
   * 🔹 Exploring DevOps and Automation Tools 🛠️
