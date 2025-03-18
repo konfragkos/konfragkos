@@ -2,7 +2,7 @@
   
 # Hey there 👋🏻, I'm [Ntinos](https://github.com/konfragkos)!
 
-A passionate **Research and Development Engineer** with expertise in **DevOps, Cloud Technologies, and Automation**. I specialize in building scalable, efficient, and reliable systems using tools like **Docker, Kubernetes, Jenkins, and more**. I thrive on solving complex problems and continuously learning new technologies to stay ahead in the ever-evolving tech landscape.
+A passionate **Research and Development Engineer** working in **DevOps, Cloud Technologies, and Automation**. I specialize in building scalable, efficient, and reliable systems using tools like **Docker, Kubernetes, Jenkins, and more**. I thrive on solving complex problems and continuously learning new technologies to stay ahead in the ever-evolving tech landscape.
 
 ### 🚀 What I'm Currently Working On
 - Building and optimizing CI/CD pipelines with Jenkins and GitLab CI.
@@ -21,9 +21,8 @@ A passionate **Research and Development Engineer** with expertise in **DevOps, C
 <div align="left">
 
 ## About Me
-<div align="right">
-  ![image](https://github.com/user-attachments/assets/daf8a003-fc31-48d7-a216-313778a21b55)
-</div>
+![docker-container](https://github.com/user-attachments/assets/096114b3-5b9c-4e7b-bef7-8055204468c2)
+
 <div align="left">
   * 🔹 Currently Learning and Exploring 🌱  
   * 🔹 Exploring DevOps and Automation Tools 🛠️
