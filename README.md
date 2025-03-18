@@ -56,7 +56,7 @@ A **Research and Development Engineer** working in **DevOps, Cloud Technologies,
   <span style="display: inline-block;"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></a></span> &nbsp;
   <span style="display: inline-block;"><a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/></a></span> &nbsp;
   <span style="display: inline-block;"><a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.portainer.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/portainer/portainer-icon.svg" alt="portainer" width="40" height="40"/></a></span> &nbsp;
+  <span style="display: inline-block;"><a href="https://www.portainer.io/" target="_blank" rel="noreferrer"><img src="https://www.portainer.io/hubfs/portainer-logo-black.svg" alt="portainer" width="40" height="40"/></a></span> &nbsp;
   <span style="display: inline-block;"><a href="https://goharbor.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="harbor" width="40" height="40"/></a></span> &nbsp;
   <span style="display: inline-block;"><a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dockercompose/dockercompose-icon.svg" alt="docker-compose" width="40" height="40"/></a></span> &nbsp;
 </p>
