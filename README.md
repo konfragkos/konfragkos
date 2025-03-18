@@ -2,7 +2,7 @@
   
 # Hey there 👋🏻, I'm [Ntinos](https://github.com/konfragkos)!
 
-A passionate **Research and Development Engineer** working in **DevOps, Cloud Technologies, and Automation**. I specialize in building scalable, efficient, and reliable systems using tools like **Docker, Kubernetes, Jenkins, and more**. I thrive on solving complex problems and continuously learning new technologies to stay ahead in the ever-evolving tech landscape.
+A **Research and Development Engineer** working in **DevOps, Cloud Technologies, and Automation**. I specialize in building scalable, efficient, and reliable systems using tools like **Docker, Kubernetes, Jenkins, and more**. I thrive on solving complex problems and continuously learning new technologies to stay ahead in the ever-evolving tech landscape.
 
 ### 🚀 What I'm Currently Working On
 - Building and optimizing CI/CD pipelines with Jenkins and GitLab CI.
@@ -23,13 +23,12 @@ A passionate **Research and Development Engineer** working in **DevOps, Cloud Te
 ## About Me
 ![docker-container](https://github.com/user-attachments/assets/096114b3-5b9c-4e7b-bef7-8055204468c2)
 
-<div align="left">
+
   * 🔹 Currently Learning and Exploring 🌱  
   * 🔹 Exploring DevOps and Automation Tools 🛠️
   * 🔹 Keeping Up with Emerging Technologies 🚀
   * 🔹 Open to Collaborations & Knowledge Sharing 🤝
   * 🔹 Always Learning & Improving 📚
-</div>
 
 
 <h3 align="left">Find Me On:</h3>
@@ -55,7 +54,7 @@ A passionate **Research and Development Engineer** working in **DevOps, Cloud Te
   <span style="display: inline-block;"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a></span> &nbsp;
   <span style="display: inline-block;"><a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a></span> &nbsp;
   <span style="display: inline-block;"><a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/></a></span> &nbsp;
+  <span style="display: inline-block;"><a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="" width="40" height="40"/></a></span> &nbsp;
   <span style="display: inline-block;"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></a></span> &nbsp;
   <span style="display: inline-block;"><a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/></a></span> &nbsp;
   <span style="display: inline-block;"><a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a></span> &nbsp;
