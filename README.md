@@ -5,9 +5,8 @@
 A **Research and Development Engineer** working in **DevOps, Cloud Technologies, and Automation**. I specialize in building scalable, efficient, and reliable systems using tools like **Docker, Kubernetes, Jenkins, and more**. I thrive on solving complex problems and continuously learning new technologies to stay ahead in the ever-evolving tech landscape.
 
 ### 🚀 What I'm Currently Working On
-- Building and optimizing CI/CD pipelines with Jenkins and GitLab CI.
+- Building and optimizing CI/CD pipelines with Jenkins.
 - Orchestrating containerized applications using Kubernetes.
-- Automating infrastructure provisioning with Terraform and Ansible.
 - Exploring cloud-native technologies and microservices architecture.
 
 <div align="center">
