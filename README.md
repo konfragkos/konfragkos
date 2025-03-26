@@ -26,8 +26,6 @@ A **Research and Development Engineer** working in **DevOps, Cloud Technologies,
 
 🔹 Open to Collaborations & Knowledge Sharing 🤝
 
-🔹 Always Learning & Improving 📚
-
 
 <h3 align="left">Find Me On:</h3>
 <p align="left">
