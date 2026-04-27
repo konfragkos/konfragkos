@@ -31,28 +31,3 @@ A **Research and Development Engineer** working in **DevOps, Cloud Technologies,
   <a href="https://linkedin.com/in/konstantinosfragkos01/" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Your Name" height="38" width="40"></a> &nbsp;
   <a href="https://stackoverflow.com/users/18540967/konstantinos" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" alt="StackOverflow" height="40" width="40"></a> 
 </p>
-
-
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-  <span style="display: inline-block;"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0EFa1gjoI5bkJxHx_HxCPCLpNdxVYbjJbwQ&s" alt="nginx" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://www.portainer.io/" target="_blank" rel="noreferrer"><img src="https://www.portainer.io/hubfs/portainer-logo-black.svg" alt="portainer" width="40" height="40"/></a></span> &nbsp;
-  <span style="display: inline-block;"><a href="https://goharbor.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="harbor" width="40" height="40"/></a></span> &nbsp;
-</p>
-
-
-<div align="left">
-
