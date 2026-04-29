@@ -27,7 +27,7 @@ A **Research and Development Engineer** working in **DevOps, Cloud Technologies,
 
 <h3 align="left">Find Me On:</h3>
 <p align="left">
-  <a href="mailto:fragkosconstantinos@gmail.com" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Your Name" height="40" width="40"></a> &nbsp;
-  <a href="https://linkedin.com/in/konstantinosfragkos01/" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Your Name" height="38" width="40"></a> &nbsp;
+  <a href="mailto:fragkosconstantinos@gmail.com" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Your Name" height="40" width="40"></a> &nbsp;  
+  <a href="https://linkedin.com/in/konstantinosfragkos01/" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Your Name" height="38" width="40"></a> &nbsp;  
   <a href="https://stackoverflow.com/users/18540967/konstantinos" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" alt="StackOverflow" height="40" width="40"></a> 
 </p>
